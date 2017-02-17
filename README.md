@@ -1,8 +1,6 @@
-# Vanilla JavaScript App Boilerplate
+# Vanilla JavaScript Front-End Framework
 
-App demonstrating ...
-
-Live version: https://REPO.herokuapp.com
+Render html using JavaScript
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
 
@@ -10,6 +8,7 @@ Live version: https://REPO.herokuapp.com
 * Node
 * Express
 * Heroku
+* Browsersync
 * Vanilla JavaScript
 * ES6
 * Flexbox
@@ -17,12 +16,12 @@ Live version: https://REPO.herokuapp.com
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/render-html-with-vanilla-js.git
+cd render-html-with-vanilla-js
 npm install
 
 #1. Start the development server with Browsersync reloading
 npm run dev
 
-#2. Open this url in your browser: http://localhost:3000/public/index.html
+#2. Open this url in your browser: http://localhost:3000
 ```
