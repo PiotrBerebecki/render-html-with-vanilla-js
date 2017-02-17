@@ -1,8 +1,8 @@
 # Vanilla JavaScript Front-End Framework
 
-Render html using JavaScript
+Render html with JavaScript functions
 
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
+<!-- <img src="./src/graphics/screencast.gif" width="275px" height="auto"> -->
 
 ## Tech stack
 * Node
@@ -11,7 +11,6 @@ Render html using JavaScript
 * Browsersync
 * Vanilla JavaScript
 * ES6
-* Flexbox
 
 ## Getting started
 
